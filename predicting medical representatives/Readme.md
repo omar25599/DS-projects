@@ -12,3 +12,5 @@ This project aims to develop a predictive model for identifying successful Medic
   A detailed document that explains the project’s data analysis, modeling process, and results. It includes charts, model performance metrics, and in-depth insights into predictive factors.
 * #### Proposal (Project Proposal.pdf)
   This proposal outlines the project's scope, objectives, and methodology. It is designed for initial project planning and stakeholder review.
+## Acknowledge
+This project is a collaborative effort between my colleagues and me at the Digital Egypt Pioneers Initiative (DEPI).

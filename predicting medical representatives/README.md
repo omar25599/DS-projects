@@ -8,9 +8,5 @@ This project aims to develop a predictive model for identifying successful Medic
   This dataset holds the medical and representative-specific features used in the project. Key variables include representative demographics, metrics, and more.
 * #### Presentation (Data Science Project Presentaion.pptx)
   The presentation highlights key findings and visualizations, intended for stakeholders or team members. It covers the project’s objectives, methodology, insights, and recommendations.
-* #### Report (Project Report.pdf)
-  A detailed document that explains the project’s data analysis, modeling process, and results. It includes charts, model performance metrics, and in-depth insights into predictive factors.
-* #### Proposal (Project Proposal.pdf)
-  This proposal outlines the project's scope, objectives, and methodology. It is designed for initial project planning and stakeholder review.
 ## Acknowledge
 This project is a collaborative effort between my teammates: [Mahmoud Tag](https://www.linkedin.com/in/mahmoud-tag/), [Mahmoud Atef](https://www.linkedin.com/in/mahmoud-attef/), [Menna Tarek](https://www.linkedin.com/in/menna-tarek204/), [Salma Ahmed](https://www.linkedin.com/in/salma-ahmed-hamdy-10a764268/) and [me](https://www.linkedin.com/in/omar-a-elfeky-202b08216/) at the Digital Egypt Pioneers Initiative (DEPI).

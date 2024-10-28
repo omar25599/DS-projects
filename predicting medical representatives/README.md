@@ -13,4 +13,4 @@ This project aims to develop a predictive model for identifying successful Medic
 * #### Proposal (Project Proposal.pdf)
   This proposal outlines the project's scope, objectives, and methodology. It is designed for initial project planning and stakeholder review.
 ## Acknowledge
-This project is a collaborative effort between my teammates: [Mahmoud Tag]((https://www.linkedin.com/in/mahmoud-tag/)), [Mahmoud Atef](https://www.linkedin.com/in/mahmoud-attef/), [Menna Tarek](https://www.linkedin.com/in/menna-tarek204/), [Salma Ahmed](https://www.linkedin.com/in/salma-ahmed-hamdy-10a764268/) and [me](https://www.linkedin.com/in/omar-a-elfeky-202b08216/) at the Digital Egypt Pioneers Initiative (DEPI).
+This project is a collaborative effort between my teammates: [Mahmoud Tag](https://www.linkedin.com/in/mahmoud-tag/), [Mahmoud Atef](https://www.linkedin.com/in/mahmoud-attef/), [Menna Tarek](https://www.linkedin.com/in/menna-tarek204/), [Salma Ahmed](https://www.linkedin.com/in/salma-ahmed-hamdy-10a764268/) and [me](https://www.linkedin.com/in/omar-a-elfeky-202b08216/) at the Digital Egypt Pioneers Initiative (DEPI).
